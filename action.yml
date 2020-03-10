@@ -1,0 +1,6 @@
+name: 'NekoX Build Script'
+description: ':)'
+author: "世界"
+runs:
+  using: 'docker'
+  image: 'docker://nekohasekai/nekox-build-script'
